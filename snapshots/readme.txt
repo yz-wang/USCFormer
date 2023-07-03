@@ -1,0 +1,1 @@
+You can download the pretrained model (best_deeplabv3plus_mobilenet_cityscapes_os16) from https://drive.google.com/file/d/1pV-xlWZQwYMfEvavGBmp1bbsdqdbXWr0/view?usp=share_link
