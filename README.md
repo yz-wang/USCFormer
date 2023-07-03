@@ -25,7 +25,7 @@ author={Wang, Yongzhen and Xiong, Jiamei and Yan, Xuefeng and Wei, Mingqiang},
 ## Prerequisites:
 Python 3.7 or above
 
-Pytorch 1.5
+Pytorch 1.7.1
 
 CUDA 10.1
 
@@ -35,7 +35,7 @@ CUDA 10.1
 1. Clone this repo
 2. Install PyTorch and dependencies from http://pytorch.org 
 
-（**Note**: the code is suitable for PyTorch 1.5）
+（**Note**: the code is suitable for PyTorch 1.7.1）
 
 
 ### Acknowledgments
