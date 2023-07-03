@@ -28,3 +28,21 @@ Python 3.7 or above
 Pytorch 1.5
 
 CUDA 10.1
+
+
+## Installation:
+
+1. Clone this repo
+2. Install PyTorch and dependencies from http://pytorch.org 
+
+（**Note**: the code is suitable for PyTorch 1.5）
+
+
+### Acknowledgments
+Our code is developed based on [TransWeather](https://github.com/jeya-maria-jose/TransWeather). We thank the awesome work provided by them.
+And great thanks to the anonymous reviewers for their helpful feedback.
+
+
+## Contact
+
+If you have questions, you can contact `wangyz@nuaa.edu.cn`.
