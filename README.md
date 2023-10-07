@@ -16,9 +16,9 @@ author={Wang, Yongzhen and Xiong, Jiamei and Yan, Xuefeng and Wei, Mingqiang},
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={USCFormer: Unified Transformer With Semantically Contrastive Learning for Image Dehazing}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-13},
+  volume={24},
+  number={10},
+  pages={11321-11333},
   doi={10.1109/TITS.2023.3277709}}
 ```  
 
